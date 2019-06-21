@@ -1,0 +1,17 @@
+/*base styles these are applied across the entire site*/
+body {
+  background-color: #eeeff3;
+}
+html {
+  background-color: #eeeff3;
+}
+.navbar {
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+.banner {
+  padding-right: 20px;
+}
+.container {
+  background-color: #eeeff3;
+}

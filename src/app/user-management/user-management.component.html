@@ -1,0 +1,8 @@
+<h2>User Management</h2>
+
+<div class="col-5" *ngFor="let user of userList" class="row">
+  <div>
+    <div>{{ user?.firstName }} {{ user?.lastName }}</div>
+    <div>{{ user?.emailAddress }}</div>
+  </div>
+</div>
